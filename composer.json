@@ -1,0 +1,17 @@
+{
+    "name": "bagus/ready-for-delete",
+    "authors": [
+        {
+            "name": "Bagus",
+            "email": "bagusays@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "GrowpalTrackingApp\\": "src/"
+        }
+    }
+}
